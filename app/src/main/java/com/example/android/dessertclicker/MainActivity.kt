@@ -195,4 +195,5 @@ class MainActivity : AppCompatActivity() {
         super.onRestart()
         Timber.i("onRestart Called")
     }
+    
 }
